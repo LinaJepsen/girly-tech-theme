@@ -1,0 +1,21 @@
+{
+  "name": "girly-tech-theme",
+  "displayName": "girly-tech-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "girly-tech-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/girly-tech-theme-color-theme.json"
+      }
+    ]
+  }
+}
